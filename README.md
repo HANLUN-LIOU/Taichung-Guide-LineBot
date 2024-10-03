@@ -2,7 +2,8 @@
 
 # 台中美食景點推薦LineBot
 
-這是一個使用 Flask 和 LINE Messaging API 開發的台中旅遊推薦 Bot。用戶可以根據自己的需求查詢台中的景點、美食和其他服務。
+這是一個使用 Flask 和 LINE Messaging API 開發的台中旅遊推薦 Bot。用戶可以根據自己的需求查詢台中的景點、美食和其他服務。  
+This is a Flask-based web application that handles responses for a LINE Bot, interacts with a MongoDB database, and includes real-time weather scraping functionality.
 
 ## 功能
 
